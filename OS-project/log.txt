@@ -1,0 +1,502 @@
+[INFO] [ 2025-05-16 19:36:35 ]start debug
+[INFO] [ 2025-05-16 19:36:35 ]cpu start
+[INFO] [ 2025-05-16 19:36:35 ]io start
+[INFO] [ 2025-05-16 20:26:32 ]start debug
+[INFO] [ 2025-05-16 20:26:32 ]cpu start
+[INFO] [ 2025-05-16 20:26:32 ]io start
+[INFO] [ 2025-05-16 20:26:39 ]try to creat proc now id: 1 time: 1 mem_size: 1 io_time -1
+[RESULT] [ 2025-05-16 20:26:39 ]create process success !!!
+[INFO] [ 2025-05-16 20:26:40 ]进程id:1 is finished
+[INFO] [ 2025-05-16 20:26:56 ]start debug
+[INFO] [ 2025-05-16 20:26:56 ]io start
+[INFO] [ 2025-05-16 20:26:56 ]cpu start
+[INFO] [ 2025-05-16 20:27:05 ]try to creat proc now id: 1 time: 100 mem_size: 1 io_time -1
+[RESULT] [ 2025-05-16 20:27:05 ]create process success !!!
+[INFO] [ 2025-05-16 20:27:59 ]start debug
+[INFO] [ 2025-05-16 20:27:59 ]io start
+[INFO] [ 2025-05-16 20:27:59 ]cpu start
+[INFO] [ 2025-05-16 20:28:06 ]try to creat proc now id: 1 time: 100 mem_size: 1 io_time -1
+[RESULT] [ 2025-05-16 20:28:06 ]create process success !!!
+[INFO] [ 2025-05-16 20:28:37 ]start debug
+[INFO] [ 2025-05-16 20:28:37 ]io start
+[INFO] [ 2025-05-16 20:28:37 ]cpu start
+[INFO] [ 2025-05-16 20:28:44 ]try to creat proc now id: 1 time: 100 mem_size: 1 io_time -1
+[RESULT] [ 2025-05-16 20:28:44 ]create process success !!!
+[INFO] [ 2025-05-16 20:29:04 ]cpu start
+[INFO] [ 2025-05-16 20:29:04 ]io start
+[INFO] [ 2025-05-16 20:29:04 ]start debug
+[INFO] [ 2025-05-16 20:29:10 ]try to creat proc now id: 1 time: 100 mem_size: 1 io_time -1
+[RESULT] [ 2025-05-16 20:29:10 ]create process success !!!
+[INFO] [ 2025-05-16 20:29:48 ]io start
+[INFO] [ 2025-05-16 20:29:48 ]cpu start
+[INFO] [ 2025-05-16 20:29:48 ]start debug
+[INFO] [ 2025-05-16 20:29:56 ]try to creat proc now id: 1 time: 100 mem_size: 1 io_time -1
+[RESULT] [ 2025-05-16 20:29:56 ]create process success !!!
+[INFO] [ 2025-05-16 20:31:53 ]io start
+[INFO] [ 2025-05-16 20:31:53 ]start debug
+[INFO] [ 2025-05-16 20:31:53 ]cpu start
+[INFO] [ 2025-05-16 20:32:01 ]try to creat proc now id: 1 time: 100 mem_size: 1 io_time -1
+[RESULT] [ 2025-05-16 20:32:01 ]create process success !!!
+[INFO] [ 2025-05-16 20:32:59 ]cpu start
+[INFO] [ 2025-05-16 20:32:59 ]start debug
+[INFO] [ 2025-05-16 20:32:59 ]io start
+[INFO] [ 2025-05-16 20:33:04 ]try to creat proc now id: 1 time: 100 mem_size: 1 io_time -1
+[RESULT] [ 2025-05-16 20:33:04 ]create process success !!!
+[INFO] [ 2025-05-16 20:33:27 ]start debug
+[INFO] [ 2025-05-16 20:33:27 ]cpu start
+[INFO] [ 2025-05-16 20:33:27 ]io start
+[INFO] [ 2025-05-16 20:33:33 ]try to creat proc now id: 1 time: 100 mem_size: 1 io_time -1
+[RESULT] [ 2025-05-16 20:33:33 ]create process success !!!
+[INFO] [ 2025-05-16 20:33:51 ]io start
+[INFO] [ 2025-05-16 20:33:51 ]cpu start
+[INFO] [ 2025-05-16 20:33:51 ]start debug
+[ERROR] [ 2025-05-16 20:34:01 ]cmd not found you can input help get more information
+[INFO] [ 2025-05-16 20:34:12 ]try to creat proc now id: 1 time: 100 mem_size: 1 io_time -1
+[RESULT] [ 2025-05-16 20:34:12 ]create process success !!!
+[INFO] [ 2025-05-16 20:34:29 ]io start
+[INFO] [ 2025-05-16 20:34:29 ]cpu start
+[INFO] [ 2025-05-16 20:34:29 ]start debug
+[INFO] [ 2025-05-16 20:34:41 ]cpu start
+[INFO] [ 2025-05-16 20:34:41 ]io start
+[INFO] [ 2025-05-16 20:34:41 ]start debug
+[INFO] [ 2025-05-16 20:34:59 ]cpu start
+[INFO] [ 2025-05-16 20:34:59 ]start debug
+[INFO] [ 2025-05-16 20:34:59 ]io start
+[INFO] [ 2025-05-16 20:35:06 ]try to creat proc now id: 1 time: 100 mem_size: 1 io_time -1
+[RESULT] [ 2025-05-16 20:35:06 ]create process success !!!
+[INFO] [ 2025-05-16 20:36:21 ]io start
+[INFO] [ 2025-05-16 20:36:21 ]cpu start
+[INFO] [ 2025-05-16 20:36:21 ]start debug
+[ERROR] [ 2025-05-16 20:36:42 ]file_size is too big
+[INFO] [ 2025-05-16 20:41:06 ]io start
+[INFO] [ 2025-05-16 20:41:06 ]cpu start
+[INFO] [ 2025-05-16 20:41:06 ]start debug
+[ERROR] [ 2025-05-16 20:41:13 ]file_size is too big
+[INFO] [ 2025-05-16 20:41:30 ]io start
+[INFO] [ 2025-05-16 20:41:30 ]start debug
+[INFO] [ 2025-05-16 20:41:30 ]cpu start
+[ERROR] [ 2025-05-16 20:41:36 ]file_size is too big
+[INFO] [ 2025-05-16 20:43:45 ]start debug
+[INFO] [ 2025-05-16 20:43:45 ]io start
+[INFO] [ 2025-05-16 20:43:45 ]cpu start
+[ERROR] [ 2025-05-16 20:43:52 ]file_size is too big
+[INFO] [ 2025-05-16 20:44:19 ]start debug
+[INFO] [ 2025-05-16 20:44:19 ]io start
+[INFO] [ 2025-05-16 20:44:19 ]cpu start
+[ERROR] [ 2025-05-16 20:44:25 ]file_size is too big
+[INFO] [ 2025-05-16 20:44:34 ]start debug
+[INFO] [ 2025-05-16 20:44:34 ]io start
+[INFO] [ 2025-05-16 20:44:34 ]cpu start
+[ERROR] [ 2025-05-16 20:44:42 ]file_size is too big
+[INFO] [ 2025-05-16 20:45:18 ]start debug
+[INFO] [ 2025-05-16 20:45:18 ]cpu start
+[INFO] [ 2025-05-16 20:45:18 ]io start
+[ERROR] [ 2025-05-16 20:45:29 ]file_size is too big
+[INFO] [ 2025-05-16 20:45:53 ]cpu start
+[INFO] [ 2025-05-16 20:45:53 ]io start
+[INFO] [ 2025-05-16 20:45:53 ]start debug
+[RESULT] [ 2025-05-16 20:46:00 ]alloc file success!!!
+[INFO] [ 2025-05-16 20:46:55 ]cpu start
+[INFO] [ 2025-05-16 20:46:55 ]io start
+[INFO] [ 2025-05-16 20:46:55 ]start debug
+[RESULT] [ 2025-05-16 20:47:00 ]alloc file success!!!
+[ERROR] [ 2025-05-16 20:47:04 ]cmd not found you can input help get more information
+[INFO] [ 2025-05-16 20:50:47 ]cpu start
+[INFO] [ 2025-05-16 20:50:47 ]io start
+[INFO] [ 2025-05-16 20:50:47 ]start debug
+[RESULT] [ 2025-05-16 20:50:53 ]alloc file success!!!
+[INFO] [ 2025-05-16 20:51:07 ]io start
+[INFO] [ 2025-05-16 20:51:07 ]start debug
+[INFO] [ 2025-05-16 20:51:07 ]cpu start
+[RESULT] [ 2025-05-16 20:51:13 ]alloc file success!!!
+[RESULT] [ 2025-05-16 20:51:26 ]delete shabi success!!!
+[ERROR] [ 2025-05-16 20:51:31 ]file not exist
+[INFO] [ 2025-05-16 20:51:35 ]cpu start
+[INFO] [ 2025-05-16 20:51:35 ]io start
+[INFO] [ 2025-05-16 20:51:35 ]start debug
+[INFO] [ 2025-05-16 20:51:43 ]try to creat proc now id: 1 time: 100 mem_size: 10 io_time -1
+[RESULT] [ 2025-05-16 20:51:43 ]create process success !!!
+[INFO] [ 2025-05-17 15:30:25 ]start debug
+[INFO] [ 2025-05-17 15:30:37 ]start debug
+[INFO] [ 2025-05-17 15:30:43 ]try to creat proc now id: 1 time: 100 mem_size: 1 io_time 2
+[RESULT] [ 2025-05-17 15:30:43 ]create process success !!!
+[INFO] [ 2025-05-17 15:30:45 ]io request come id: 1
+[INFO] [ 2025-05-17 15:30:46 ]io request is over id: 1
+[INFO] [ 2025-05-17 15:31:03 ] proc_id:1 is WORK
+[INFO] [ 2025-05-17 15:31:03 ] proc_id: 1: IO
+[INFO] [ 2025-05-17 15:31:46 ] proc_id:1 is WORK
+[INFO] [ 2025-05-17 15:31:46 ] proc_id: 1: IO
+[INFO] [ 2025-05-17 15:31:50 ] proc_id:1 is WORK
+[INFO] [ 2025-05-17 15:31:50 ] proc_id: 1: IO
+[INFO] [ 2025-05-17 15:32:23 ]进程id:1 is finished
+[INFO] [ 2025-05-17 15:32:23 ]clean process ok
+[INFO] [ 2025-05-17 15:33:47 ]start debug
+[INFO] [ 2025-05-17 15:33:57 ]start debug
+[INFO] [ 2025-05-17 15:34:06 ]try to creat proc now id: 1 time: 100 mem_size: 2 io_time 2
+[RESULT] [ 2025-05-17 15:34:06 ]create process success !!!
+[INFO] [ 2025-05-17 15:34:08 ]io request come id: 1
+[INFO] [ 2025-05-17 15:34:09 ]io request is over id: 1
+[INFO] [ 2025-05-17 15:34:09 ] proc_id:1 is WORK
+[INFO] [ 2025-05-17 15:34:13 ] proc_id:1 is WORK
+[INFO] [ 2025-05-17 15:34:17 ] proc_id:1 is WORK
+[INFO] [ 2025-05-17 15:35:31 ] proc_id:1 is WORK
+[INFO] [ 2025-05-17 15:35:46 ]进程id:1 is finished
+[INFO] [ 2025-05-17 15:35:46 ]clean process ok
+[INFO] [ 2025-05-17 15:37:16 ]start debug
+[INFO] [ 2025-05-17 15:37:24 ]try to creat proc now id: 1 time: 100 mem_size: 1 io_time -1
+[RESULT] [ 2025-05-17 15:37:24 ]create process success !!!
+[INFO] [ 2025-05-17 15:37:35 ]try to kill proc_id: 1
+[ERROR] [ 2025-05-17 15:37:35 ]set delete ok！！！
+[INFO] [ 2025-05-17 15:37:35 ]clean process ok
+[INFO] [ 2025-05-17 15:38:59 ]start debug
+[INFO] [ 2025-05-17 15:39:05 ]try to creat proc now id: 1 time: 100 mem_size: 1 io_time -1
+[RESULT] [ 2025-05-17 15:39:05 ]create process success !!!
+[INFO] [ 2025-05-17 15:39:08 ]try to kill proc_id: 1
+[RESULT] [ 2025-05-17 15:39:08 ]delete ok！！！
+[INFO] [ 2025-05-17 15:39:08 ]clean process ok
+[INFO] [ 2025-05-17 15:39:12 ] proc_id: 1 is FINISH
+[INFO] [ 2025-05-17 15:39:25 ]try to creat proc now id: 1 time: 10 mem_size: 1 io_time -1
+[RESULT] [ 2025-05-17 15:39:25 ]create process success !!!
+[INFO] [ 2025-05-17 15:39:28 ] proc_id:1 is WORK
+[INFO] [ 2025-05-17 15:39:35 ]进程id:1 is finished
+[INFO] [ 2025-05-17 15:39:35 ]clean process ok
+[INFO] [ 2025-05-17 15:39:42 ] proc_id: 1 is FINISH
+[INFO] [ 2025-05-20 09:01:20 ]start debug
+[INFO] [ 2025-05-20 09:01:33 ]try to creat proc now id: 1 time: 10 mem_size: 3 io_time -1
+[RESULT] [ 2025-05-20 09:01:33 ]create process success !!!
+[INFO] [ 2025-05-20 09:01:36 ]free memory list:
+[INFO] [ 2025-05-20 09:01:36 ]free Block: 1. start place: 3 memory size: 2045
+[INFO] [ 2025-05-20 09:01:36 ]used memory list:
+[INFO] [ 2025-05-20 09:01:36 ]used Block: 1. proc_id: 1 start place: 0 memory size: 3
+[INFO] [ 2025-05-20 09:01:39 ]free memory list:
+[INFO] [ 2025-05-20 09:01:39 ]free Block: 1. start place: 3 memory size: 2045
+[INFO] [ 2025-05-20 09:01:39 ]used memory list:
+[INFO] [ 2025-05-20 09:01:39 ]used Block: 1. proc_id: 1 start place: 0 memory size: 3
+[INFO] [ 2025-05-20 09:01:41 ]free memory list:
+[INFO] [ 2025-05-20 09:01:41 ]free Block: 1. start place: 3 memory size: 2045
+[INFO] [ 2025-05-20 09:01:41 ]used memory list:
+[INFO] [ 2025-05-20 09:01:41 ]used Block: 1. proc_id: 1 start place: 0 memory size: 3
+[INFO] [ 2025-05-20 09:01:43 ]进程id:1 is finished
+[INFO] [ 2025-05-20 09:01:43 ]clean process ok
+[INFO] [ 2025-05-20 09:01:45 ]free memory list:
+[INFO] [ 2025-05-20 09:01:45 ]free Block: 1. start place: 0 memory size: 3
+[INFO] [ 2025-05-20 09:01:45 ]free Block: 2. start place: 3 memory size: 2045
+[INFO] [ 2025-05-20 09:01:45 ]used memory list:
+[INFO] [ 2025-05-20 10:22:10 ]start debug
+[INFO] [ 2025-05-20 10:23:27 ]start debug
+[INFO] [ 2025-05-20 10:23:34 ]try to creat proc now id: 1 time: 12 mem_size: 2 io_time -1
+[RESULT] [ 2025-05-20 10:23:34 ]create process success !!!
+[INFO] [ 2025-05-20 10:23:35 ]free memory list:
+[INFO] [ 2025-05-20 10:23:35 ]free Block: 1. start place: 2 memory size: 2046
+[INFO] [ 2025-05-20 10:23:35 ]used memory list:
+[INFO] [ 2025-05-20 10:23:35 ]used Block: 1. proc_id: 1 start place: 0 memory size: 2
+[INFO] [ 2025-05-20 10:23:46 ]进程id:1 is finished
+[INFO] [ 2025-05-20 10:23:46 ]clean process ok
+[INFO] [ 2025-05-20 10:23:48 ]free memory list:
+[INFO] [ 2025-05-20 10:23:48 ]free Block: 1. start place: 2 memory size: 2046
+[INFO] [ 2025-05-20 10:23:48 ]free Block: 2. start place: 0 memory size: 2
+[INFO] [ 2025-05-20 10:23:48 ]used memory list:
+[INFO] [ 2025-05-20 10:24:13 ]try to creat proc now id: 1 time: 12 mem_size: 200 io_time -1
+[RESULT] [ 2025-05-20 10:24:13 ]create process success !!!
+[INFO] [ 2025-05-20 10:24:20 ]free memory list:
+[INFO] [ 2025-05-20 10:24:20 ]free Block: 1. start place: 0 memory size: 2
+[INFO] [ 2025-05-20 10:24:20 ]free Block: 2. start place: 202 memory size: 1846
+[INFO] [ 2025-05-20 10:24:20 ]used memory list:
+[INFO] [ 2025-05-20 10:24:20 ]used Block: 1. proc_id: 1 start place: 2 memory size: 200
+[INFO] [ 2025-05-20 10:24:25 ]进程id:1 is finished
+[INFO] [ 2025-05-20 10:24:25 ]clean process ok
+[INFO] [ 2025-05-20 10:24:29 ]free memory list:
+[INFO] [ 2025-05-20 10:24:29 ]free Block: 1. start place: 0 memory size: 2
+[INFO] [ 2025-05-20 10:24:29 ]free Block: 2. start place: 202 memory size: 1846
+[INFO] [ 2025-05-20 10:24:29 ]free Block: 3. start place: 2 memory size: 200
+[INFO] [ 2025-05-20 10:24:29 ]used memory list:
+[INFO] [ 2025-05-20 10:24:43 ]try to creat proc now id: 1 time: 2 mem_size: 1000 io_time -1
+[RESULT] [ 2025-05-20 10:24:43 ]create process success !!!
+[INFO] [ 2025-05-20 10:24:45 ]进程id:1 is finished
+[INFO] [ 2025-05-20 10:24:45 ]clean process ok
+[INFO] [ 2025-05-20 10:24:46 ]free memory list:
+[INFO] [ 2025-05-20 10:24:46 ]free Block: 1. start place: 0 memory size: 202
+[INFO] [ 2025-05-20 10:24:46 ]free Block: 2. start place: 1202 memory size: 846
+[INFO] [ 2025-05-20 10:24:46 ]free Block: 3. start place: 202 memory size: 1000
+[INFO] [ 2025-05-20 10:24:46 ]used memory list:
+[INFO] [ 2025-05-20 10:26:39 ]start debug
+[INFO] [ 2025-05-20 10:26:45 ]try to creat proc now id: 1 time: 1 mem_size: 1000 io_time -1
+[RESULT] [ 2025-05-20 10:26:45 ]create process success !!!
+[INFO] [ 2025-05-20 10:26:46 ]进程id:1 is finished
+[INFO] [ 2025-05-20 10:26:46 ]clean process ok
+[INFO] [ 2025-05-20 10:27:04 ]free memory list:
+[INFO] [ 2025-05-20 10:27:04 ]free Block: 1. start place: 1000 memory size: 1048
+[INFO] [ 2025-05-20 10:27:04 ]free Block: 2. start place: 0 memory size: 1000
+[INFO] [ 2025-05-20 10:27:04 ]used memory list:
+[INFO] [ 2025-05-20 10:28:31 ]start debug
+[INFO] [ 2025-05-20 10:28:36 ]try to creat proc now id: 1 time: 1 mem_size: 1000 io_time -1
+[RESULT] [ 2025-05-20 10:28:36 ]create process success !!!
+[INFO] [ 2025-05-20 10:28:37 ]进程id:1 is finished
+[INFO] [ 2025-05-20 10:28:37 ]clean process ok
+[INFO] [ 2025-05-20 10:29:01 ]start debug
+[INFO] [ 2025-05-20 10:29:11 ]try to creat proc now id: 1 time: 100 mem_size: 100 io_time -1
+[RESULT] [ 2025-05-20 10:29:11 ]create process success !!!
+[INFO] [ 2025-05-20 10:29:34 ]start debug
+[INFO] [ 2025-05-20 10:29:41 ]try to creat proc now id: 1 time: 1 mem_size: 100 io_time -1
+[RESULT] [ 2025-05-20 10:29:41 ]create process success !!!
+[INFO] [ 2025-05-20 10:29:42 ]进程id:1 is finished
+[INFO] [ 2025-05-20 10:29:42 ]clean process ok
+[INFO] [ 2025-05-20 10:29:47 ]free memory list:
+[INFO] [ 2025-05-20 10:29:47 ]free Block: 1. start place: 100 memory size: 1948
+[INFO] [ 2025-05-20 10:29:47 ]free Block: 2. start place: 0 memory size: 100
+[INFO] [ 2025-05-20 10:29:47 ]used memory list:
+[INFO] [ 2025-05-20 10:30:29 ]start debug
+[INFO] [ 2025-05-20 10:30:37 ]try to creat proc now id: 1 time: 1 mem_size: 100 io_time -1
+[RESULT] [ 2025-05-20 10:30:37 ]create process success !!!
+[INFO] [ 2025-05-20 10:30:38 ]进程id:1 is finished
+[INFO] [ 2025-05-20 10:30:38 ]clean process ok
+[INFO] [ 2025-05-20 10:32:16 ]start debug
+[INFO] [ 2025-05-20 10:32:22 ]try to creat proc now id: 1 time: 1 mem_size: 1000 io_time -1
+[RESULT] [ 2025-05-20 10:32:22 ]create process success !!!
+[INFO] [ 2025-05-20 10:32:23 ]进程id:1 is finished
+[INFO] [ 2025-05-20 10:32:54 ]start debug
+[INFO] [ 2025-05-20 10:33:00 ]try to creat proc now id: 1 time: 1 mem_size: 1000 io_time -1
+[RESULT] [ 2025-05-20 10:33:00 ]create process success !!!
+[INFO] [ 2025-05-20 10:33:01 ]进程id:1 is finished
+[INFO] [ 2025-05-20 10:33:15 ]start debug
+[INFO] [ 2025-05-20 10:33:21 ]try to creat proc now id: 1 time: 1 mem_size: 1000 io_time -1
+[RESULT] [ 2025-05-20 10:33:21 ]create process success !!!
+[INFO] [ 2025-05-20 10:33:22 ]进程id:1 is finished
+[INFO] [ 2025-05-20 10:33:52 ]start debug
+[INFO] [ 2025-05-20 10:33:58 ]try to creat proc now id: 1 time: 1 mem_size: 1000 io_time -1
+[RESULT] [ 2025-05-20 10:33:58 ]create process success !!!
+[INFO] [ 2025-05-20 10:33:59 ]进程id:1 is finished
+[INFO] [ 2025-05-20 10:33:59 ]clean process ok
+[INFO] [ 2025-05-20 10:34:01 ]free memory list:
+[INFO] [ 2025-05-20 10:34:01 ]free Block: 1. start place: 0 memory size: 2048
+[INFO] [ 2025-05-20 10:34:01 ]used memory list:
+[INFO] [ 2025-05-20 10:34:10 ]try to creat proc now id: 1 time: 1 mem_size: 10 io_time -1
+[RESULT] [ 2025-05-20 10:34:11 ]create process success !!!
+[INFO] [ 2025-05-20 10:34:11 ]free memory list:
+[INFO] [ 2025-05-20 10:34:11 ]free Block: 1. start place: 10 memory size: 2038
+[INFO] [ 2025-05-20 10:34:11 ]used memory list:
+[INFO] [ 2025-05-20 10:34:11 ]used Block: 1. proc_id: 1 start place: 0 memory size: 10
+[INFO] [ 2025-05-20 10:34:11 ]进程id:1 is finished
+[INFO] [ 2025-05-20 10:34:12 ]clean process ok
+[INFO] [ 2025-05-20 10:34:18 ]free memory list:
+[INFO] [ 2025-05-20 10:34:18 ]free Block: 1. start place: 0 memory size: 2048
+[INFO] [ 2025-05-20 10:34:18 ]used memory list:
+[INFO] [ 2025-05-20 10:35:00 ]start debug
+[INFO] [ 2025-05-20 10:35:04 ]try to creat proc now id: 1 time: 1 mem_size: 10 io_time -1
+[RESULT] [ 2025-05-20 10:35:04 ]create process success !!!
+[INFO] [ 2025-05-20 10:35:05 ]进程id:1 is finished
+[INFO] [ 2025-05-20 10:35:05 ]clean process ok
+[INFO] [ 2025-05-20 10:35:11 ]free memory list:
+[INFO] [ 2025-05-20 10:35:11 ]free Block: 1. start place: 0 memory size: 2048
+[INFO] [ 2025-05-20 10:35:11 ]used memory list:
+[INFO] [ 2025-05-20 10:36:28 ]start debug
+[INFO] [ 2025-05-20 10:36:37 ]try to creat proc now id: 1 time: 1 mem_size: 10 io_time -1
+[RESULT] [ 2025-05-20 10:36:37 ]create process success !!!
+[INFO] [ 2025-05-20 10:36:38 ]进程id:1 is finished
+[INFO] [ 2025-05-20 10:36:38 ]clean process ok
+[ERROR] [ 2025-05-20 10:36:46 ]cmd not found you can input help get more information
+[INFO] [ 2025-05-20 10:36:47 ]free memory list:
+[INFO] [ 2025-05-20 10:36:47 ]free Block: 1. start place: 0 memory size: 2048
+[INFO] [ 2025-05-20 10:36:47 ]used memory list:
+[INFO] [ 2025-05-20 10:37:09 ]start debug
+[INFO] [ 2025-05-20 10:37:15 ]try to creat proc now id: 1 time: 1 mem_size: 10 io_time -1
+[RESULT] [ 2025-05-20 10:37:15 ]create process success !!!
+[INFO] [ 2025-05-20 10:37:16 ]进程id:1 is finished
+[INFO] [ 2025-05-20 10:37:16 ]clean process ok
+[INFO] [ 2025-05-20 10:38:29 ]start debug
+[INFO] [ 2025-05-20 10:38:35 ]try to creat proc now id: 1 time: 1 mem_size: 10 io_time -1
+[RESULT] [ 2025-05-20 10:38:35 ]create process success !!!
+[INFO] [ 2025-05-20 10:38:36 ]进程id:1 is finished
+[INFO] [ 2025-05-20 10:38:36 ]clean process ok
+[INFO] [ 2025-05-20 10:38:57 ]start debug
+[INFO] [ 2025-05-20 10:39:02 ]try to creat proc now id: 1 time: 1 mem_size: 10 io_time -1
+[RESULT] [ 2025-05-20 10:39:02 ]create process success !!!
+[INFO] [ 2025-05-20 10:39:03 ]进程id:1 is finished
+[INFO] [ 2025-05-20 10:39:03 ]clean process ok
+[INFO] [ 2025-05-20 10:39:27 ]start debug
+[INFO] [ 2025-05-20 10:39:32 ]try to creat proc now id: 1 time: 1 mem_size: 10 io_time -1
+[RESULT] [ 2025-05-20 10:39:32 ]create process success !!!
+[INFO] [ 2025-05-20 10:39:33 ]进程id:1 is finished
+[INFO] [ 2025-05-20 10:39:33 ]clean process ok
+[INFO] [ 2025-05-20 10:40:28 ]start debug
+[INFO] [ 2025-05-20 10:41:01 ]start debug
+[INFO] [ 2025-05-20 10:41:06 ]try to creat proc now id: 1 time: 1 mem_size: 10 io_time -1
+[RESULT] [ 2025-05-20 10:41:06 ]create process success !!!
+[INFO] [ 2025-05-20 10:41:07 ]进程id:1 is finished
+[INFO] [ 2025-05-20 10:41:07 ]clean process ok
+[INFO] [ 2025-05-20 10:41:09 ]free memory list:
+[INFO] [ 2025-05-20 10:41:09 ]free Block: 1. start place: 10 memory size: 2038
+[INFO] [ 2025-05-20 10:41:09 ]free Block: 2. start place: 0 memory size: 10
+[INFO] [ 2025-05-20 10:41:09 ]used memory list:
+[INFO] [ 2025-05-20 10:41:17 ]try to creat proc now id: 1 time: 1 mem_size: 100 io_time -1
+[RESULT] [ 2025-05-20 10:41:17 ]create process success !!!
+[INFO] [ 2025-05-20 10:41:18 ]进程id:1 is finished
+[INFO] [ 2025-05-20 10:41:18 ]clean process ok
+[INFO] [ 2025-05-20 10:41:21 ]free memory list:
+[INFO] [ 2025-05-20 10:41:21 ]free Block: 1. start place: 0 memory size: 10
+[INFO] [ 2025-05-20 10:41:21 ]free Block: 2. start place: 110 memory size: 1938
+[INFO] [ 2025-05-20 10:41:21 ]free Block: 3. start place: 10 memory size: 100
+[INFO] [ 2025-05-20 10:41:21 ]used memory list:
+[INFO] [ 2025-05-20 10:41:34 ]try to creat proc now id: 1 time: 1 mem_size: 100 io_time -1
+[RESULT] [ 2025-05-20 10:41:34 ]create process success !!!
+[INFO] [ 2025-05-20 10:41:35 ]进程id:1 is finished
+[INFO] [ 2025-05-20 10:41:35 ]clean process ok
+[INFO] [ 2025-05-20 10:41:37 ]free memory list:
+[INFO] [ 2025-05-20 10:41:37 ]free Block: 1. start place: 0 memory size: 2048
+[INFO] [ 2025-05-20 10:41:37 ]used memory list:
+[INFO] [ 2025-05-20 10:43:17 ]start debug
+[INFO] [ 2025-05-20 10:43:18 ]free memory list:
+[INFO] [ 2025-05-20 10:43:18 ]free Block: 1. start place: 0 memory size: 2048
+[INFO] [ 2025-05-20 10:43:18 ]used memory list is null
+[INFO] [ 2025-05-21 10:25:32 ]start debug
+[INFO] [ 2025-05-21 10:25:41 ]try to creat proc now id: 1 time: 100 mem_size: 12 io_time 2
+[RESULT] [ 2025-05-21 10:25:41 ]create process success !!!
+[INFO] [ 2025-05-21 10:25:43 ]io request come id: 1
+[INFO] [ 2025-05-21 10:25:44 ]io request is over id: 1
+[INFO] [ 2025-05-21 10:25:50 ]try to kill proc_id: 1
+[RESULT] [ 2025-05-21 10:25:50 ]delete ok！！！
+[INFO] [ 2025-05-21 10:25:50 ]clean process ok
+[INFO] [ 2025-05-21 10:25:57 ] proc_id: 1 is FINISH
+[INFO] [ 2025-05-21 10:26:35 ]start debug
+[INFO] [ 2025-05-21 10:26:49 ]try to creat proc now id: 1 time: 100 mem_size: 1 io_time -1
+[RESULT] [ 2025-05-21 10:26:49 ]create process success !!!
+[INFO] [ 2025-05-21 10:27:00 ]try to creat proc now id: 2 time: 100 mem_size: 1 io_time -1
+[RESULT] [ 2025-05-21 10:27:00 ]create process success !!!
+[INFO] [ 2025-05-21 10:27:02 ] proc_id:1 is WORK
+[INFO] [ 2025-05-21 10:27:02 ] proc_id: 2 is PREPARE
+[INFO] [ 2025-05-21 10:27:06 ] proc_id:2 is WORK
+[INFO] [ 2025-05-21 10:27:06 ] proc_id: 1 is PREPARE
+[INFO] [ 2025-05-21 10:35:23 ]start debug
+[INFO] [ 2025-05-21 10:35:26 ]creatproc 进程名称 运行时长 内存需求大小 [I/O起始停止时间/-1] 
+[INFO] [ 2025-05-21 10:35:26 ]killproc 进程号
+[INFO] [ 2025-05-21 10:35:26 ]psproc
+[INFO] [ 2025-05-21 10:35:26 ]mem
+[INFO] [ 2025-05-21 10:35:26 ]creatfile  文件名
+[INFO] [ 2025-05-21 10:35:26 ]deletefile  文件名
+[INFO] [ 2025-05-21 10:35:26 ]lsfile  文件名
+[INFO] [ 2025-05-21 11:26:34 ]start debug
+[ERROR] [ 2025-05-21 11:26:41 ]param is too less
+[INFO] [ 2025-05-21 18:34:26 ]start debug
+[INFO] [ 2025-05-21 18:34:38 ]try to creat proc now id: 1 time: 12 mem_size: 10 io_time -1
+[RESULT] [ 2025-05-21 18:34:38 ]create process success !!!
+[INFO] [ 2025-05-21 18:34:40 ]free memory list:
+[INFO] [ 2025-05-21 18:34:40 ]free Block: 1. start place: 10 memory size: 2038
+[INFO] [ 2025-05-21 18:34:40 ]used memory list:
+[INFO] [ 2025-05-21 18:34:40 ]used Block: 1. proc_id: 1 start place: 0 memory size: 10
+[INFO] [ 2025-05-21 18:34:48 ] proc_id:1 is WORK
+[INFO] [ 2025-05-21 18:45:42 ]start debug
+[INFO] [ 2025-05-21 18:45:49 ]try to creat proc now id: 1 time: 10 mem_size: 10 io_time -1
+[RESULT] [ 2025-05-21 18:45:49 ]create process success !!!
+[INFO] [ 2025-05-21 18:45:51 ] proc_id:1 is WORK place is 0
+[INFO] [ 2025-05-21 18:45:59 ]进程id:1 is finished
+[INFO] [ 2025-05-21 18:45:59 ]clean process ok
+[INFO] [ 2025-05-21 18:46:00 ] proc_id: 1 is FINISHplace is0
+[INFO] [ 2025-05-21 18:47:43 ]start debug
+[INFO] [ 2025-05-21 18:47:50 ]try to creat proc now id: 1 time: 10 mem_size: 1 io_time -1
+[RESULT] [ 2025-05-21 18:47:50 ]create process success !!!
+[INFO] [ 2025-05-21 18:47:53 ] proc_id:1 is WORK place is 0
+[INFO] [ 2025-05-21 18:48:00 ]进程id:1 is finished
+[INFO] [ 2025-05-21 18:48:00 ]clean process ok
+[INFO] [ 2025-05-21 18:48:02 ] proc_id: 1 is FINISH
+[INFO] [ 2025-05-21 18:54:23 ]start debug
+[INFO] [ 2025-05-21 18:54:28 ]try to creat proc now id: 1 time: 1 mem_size: 1 io_time -1
+[RESULT] [ 2025-05-21 18:54:28 ]create process success !!!
+[INFO] [ 2025-05-21 18:54:29 ]进程id:1 is finished
+[INFO] [ 2025-05-21 18:54:29 ]clean process ok
+[INFO] [ 2025-05-21 18:54:33 ]try to kill proc_id: 1
+[ERROR] [ 2025-05-21 18:54:33 ]process not exit
+[INFO] [ 2025-05-22 09:17:07 ]start debug
+[INFO] [ 2025-05-22 09:18:07 ]start debug
+[INFO] [ 2025-05-22 09:22:07 ]start debug
+[INFO] [ 2025-05-22 09:23:07 ]try to creat proc now id: 1 time: 10 mem_size: 10 io_time -1
+[RESULT] [ 2025-05-22 09:23:07 ]create process success !!!
+[INFO] [ 2025-05-22 09:23:10 ] proc_id:1 is WORK place is 0
+[INFO] [ 2025-05-22 09:27:16 ]start debug
+[INFO] [ 2025-05-22 09:27:23 ]try to creat proc now id: 1 time: 1 mem_size: 1 io_time -1
+[RESULT] [ 2025-05-22 09:27:23 ]create process success !!!
+[INFO] [ 2025-05-22 09:27:24 ]进程id:1 is finished
+[INFO] [ 2025-05-22 09:27:24 ]clean process ok
+[INFO] [ 2025-05-22 09:27:26 ] proc_id: 1 is FINISH
+[INFO] [ 2025-05-22 09:29:42 ]start debug
+[ERROR] [ 2025-05-22 09:29:51 ]cmd not found you can input help get more information
+[RESULT] [ 2025-05-22 09:30:14 ]alloc file success!!!
+[INFO] [ 2025-05-22 09:30:18 ]file_name: shabi create_time: 2025-05-22 09:30:14 file_size: 10 disk: 0 index_blcok: 3 data_block: 0 1 2
+[INFO] [ 2025-05-22 09:32:17 ]start debug
+[INFO] [ 2025-05-22 09:33:33 ]start debug
+[INFO] [ 2025-05-22 09:33:42 ]try to creat proc now id: 1 time: 10 mem_size: 2 io_time 3
+[RESULT] [ 2025-05-22 09:33:42 ]create process success !!!
+[INFO] [ 2025-05-22 09:33:45 ]io request come id: 1
+[INFO] [ 2025-05-22 09:33:46 ]io request is over id: 1
+[ERROR] [ 2025-05-22 09:33:49 ]cmd not found you can input help get more information
+[INFO] [ 2025-05-22 09:33:52 ]进程id:1 is finished
+[INFO] [ 2025-05-22 09:33:52 ]clean process ok
+[ERROR] [ 2025-05-22 09:33:57 ]cmd not found you can input help get more information
+[INFO] [ 2025-05-22 09:34:04 ] proc_id: 1 is FINISH
+[INFO] [ 2025-05-22 09:34:21 ]try to creat proc now id: 1 time: 10 mem_size: 1 io_time 3
+[RESULT] [ 2025-05-22 09:34:21 ]create process success !!!
+[INFO] [ 2025-05-22 09:34:23 ] proc_id:1 is WORK place is 2
+[INFO] [ 2025-05-22 09:34:24 ]io request come id: 1
+[ERROR] [ 2025-05-22 09:34:27 ]cmd not found you can input help get more information
+[INFO] [ 2025-05-22 09:34:29 ]io request is over id: 1
+[INFO] [ 2025-05-22 09:34:31 ]进程id:1 is finished
+[INFO] [ 2025-05-22 09:34:31 ]clean process ok
+[ERROR] [ 2025-05-22 09:34:44 ]cmd not found you can input help get more information
+[INFO] [ 2025-05-22 09:34:55 ]try to creat proc now id: 1 time: 10 mem_size: 1 io_time 2
+[RESULT] [ 2025-05-22 09:34:55 ]create process success !!!
+[INFO] [ 2025-05-22 09:34:57 ]io request come id: 1
+[ERROR] [ 2025-05-22 09:35:04 ]cmd not found you can input help get more information
+[INFO] [ 2025-05-22 09:35:04 ]io request is over id: 1
+[INFO] [ 2025-05-22 09:35:05 ]进程id:1 is finished
+[INFO] [ 2025-05-22 09:35:05 ]clean process ok
+[INFO] [ 2025-05-22 09:35:21 ]try to creat proc now id: 1 time: 100 mem_size: 2 io_time 2
+[RESULT] [ 2025-05-22 09:35:21 ]create process success !!!
+[INFO] [ 2025-05-22 09:35:23 ]io request come id: 1
+[INFO] [ 2025-05-22 09:35:25 ] proc_id:1 is WORK place is 3
+[INFO] [ 2025-05-22 09:35:25 ] proc_id:1is IO place is 3
+[INFO] [ 2025-05-22 09:36:27 ]start debug
+[INFO] [ 2025-05-22 09:36:35 ]try to creat proc now id: 1 time: 100 mem_size: 2 io_time 2
+[RESULT] [ 2025-05-22 09:36:35 ]create process success !!!
+[INFO] [ 2025-05-22 09:36:37 ]io request come id: 1
+[INFO] [ 2025-05-22 09:36:38 ] proc_id:1is IO place is 0
+[INFO] [ 2025-05-22 09:36:41 ] proc_id:1is IO place is 0
+[INFO] [ 2025-05-25 14:07:59 ]start debug
+[ERROR] [ 2025-05-25 14:08:02 ]cmd not found you can input help get more information
+[INFO] [ 2025-05-25 14:08:13 ]try to creat proc now id: 1 time: 100 mem_size: 1 io_time -1
+[RESULT] [ 2025-05-25 14:08:13 ]create process success !!!
+[ERROR] [ 2025-05-25 14:08:17 ]cmd not found you can input help get more information
+[INFO] [ 2025-05-25 14:08:20 ] proc_id:1 is WORK place is 0
+[INFO] [ 2025-05-25 14:09:20 ]start debug
+[INFO] [ 2025-05-26 20:35:12 ]start debug
+[INFO] [ 2025-05-26 20:35:22 ]try to creat proc now id: 1 time: 100 mem_size: 1 io_time -1
+[RESULT] [ 2025-05-26 20:35:22 ]create process success !!!
+[INFO] [ 2025-05-26 20:35:28 ]try to creat proc now id: 1 time: 100 mem_size: 1 io_time 2
+[ERROR] [ 2025-05-26 20:35:28 ]pro_id has already exit id:1
+[INFO] [ 2025-05-26 20:35:33 ]try to creat proc now id: 2 time: 100 mem_size: 1 io_time 2
+[RESULT] [ 2025-05-26 20:35:33 ]create process success !!!
+[INFO] [ 2025-05-26 20:35:37 ]io request come id: 2
+[INFO] [ 2025-05-26 20:35:38 ]io request is over id: 2
+[INFO] [ 2025-05-26 20:35:41 ] proc_id:1 is WORK place is 0
+[INFO] [ 2025-05-26 20:35:41 ] proc_id: 2 is PREPARE place is 1
+[INFO] [ 2025-05-26 20:35:46 ]free Block: 1. start place: 2 memory size: 2046
+[INFO] [ 2025-05-26 20:35:46 ]used Block: 1. proc_id: 1 start place: 0 memory size: 1
+[INFO] [ 2025-05-26 20:35:46 ]used Block: 2. proc_id: 2 start place: 1 memory size: 1
+[INFO] [ 2025-05-26 20:36:08 ]creatproc 进程名称 运行时长 内存需求大小 [I/O起始停止时间/-1] 
+[INFO] [ 2025-05-26 20:36:08 ]killproc 进程号
+[INFO] [ 2025-05-26 20:36:08 ]psproc
+[INFO] [ 2025-05-26 20:36:08 ]mem
+[INFO] [ 2025-05-26 20:36:08 ]creatfile  文件名
+[INFO] [ 2025-05-26 20:36:08 ]deletefile  文件名
+[INFO] [ 2025-05-26 20:36:08 ]lsfile  文件名
+[ERROR] [ 2025-05-26 20:36:12 ]cmd not found you can input help get more information
+[INFO] [ 2025-05-26 20:56:52 ]start debug
+[INFO] [ 2025-05-26 20:57:00 ]try to creat proc now id: 1 time: 100 mem_size: 1 io_time -1
+[RESULT] [ 2025-05-26 20:57:00 ]create process success !!!
+[INFO] [ 2025-05-26 20:58:40 ]进程id:1 is finished
+[INFO] [ 2025-05-26 20:58:40 ]clean process ok
+[RESULT] [ 2025-05-26 20:59:48 ]alloc file success!!!
+[INFO] [ 2025-05-26 20:59:51 ]file_name: shabi create_time: 2025-05-26 20:59:48 file_size: 10 disk: 0 index_blcok: 3 data_block: 0 1 2
+[INFO] [ 2025-05-26 21:00:24 ]start debug
+[RESULT] [ 2025-05-26 21:00:30 ]alloc file success!!!
+[INFO] [ 2025-05-26 21:00:33 ]file_name: s create_time: 2025-05-26 21:00:30 file_size: 10 disk: 0 index_blcok: 3 data_block: 0 1 2
+[INFO] [ 2025-05-26 21:08:55 ]start debug
+[ERROR] [ 2025-05-26 21:08:57 ]cmd not found you can input help get more information

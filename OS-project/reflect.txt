@@ -1,0 +1,9 @@
+出现的问题：
+
+1. 两个链表就用一个tail 而且当remove的时候没用更新tail
+2. 先add 再remove 无语 和没add有什么区别
+3. 没用用引用使得对tail的更改只作用到了副本上
+4. 调用了两次remove函数 函数功能不清楚 没规定好功能边界
+5. 在clean中delete pro 后 又在析构函数中调用pro 
+6. static vector<File&>file_arr;要管理好push进去的副本 所有不用这个
+7. 每个类的职责要分明 要不然编写时或者debug时
